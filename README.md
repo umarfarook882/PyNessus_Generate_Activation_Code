@@ -1,11 +1,11 @@
 # Nessus-Home-Activation-Key-Generation
 
 Nessus Home Activation Key Generation without visiting a Nessus website by python script
-NessusReg.py/TempMailServer.py:
 
+NessusReg.py/TempMailServer.py:
 Usage:
 
-Run Nessusreg.py script to register a new Nessus account to recieve activation code to ur mail.
+Run Nessusreg.py script to register a new Nessus account to receive activation code to ur mail.
 
 Enter ur first name and last name,then i know u need a mail id to receive so i create a TempMailServer.py script to get a temporary mail service to recieve a nessus activation code.
 
