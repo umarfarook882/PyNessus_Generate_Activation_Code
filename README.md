@@ -1,25 +1,32 @@
-# Nessus-Home-Activation-Key-Generation
+## Nessus Activation Code:
+ Generate Multiple Nessus Activation Code for Home Version using Temp Mail Service.
 
-Nessus Home Activation Key Generation without visiting a Nessus website by python script
+### Dependencies:
+* Python 2.7+
+* requests module
 
-NessusReg.py/TempMailServer.py:
-Usage:
+### How to install and generate Multiple Nessus Activation Code:
+1. Install the Temp Mail Python Package.<br>
 
-Run Nessusreg.py script to register a new Nessus account to receive activation code to ur mail.
+   ``Python setup.py install``
+2. Run the Nessus_activation_code.py script.
 
-Enter ur first name and last name,then i know u need a mail id to receive so i create a TempMailServer.py script to get a temporary mail service to recieve a nessus activation code.
+3. It will a new Temp Email and Prompt to enter First name and Last name for Nessus Registeration Form.
 
-Then run TempMailServer.py and enter ur random id and domain name to get new mail id.
+4. Press Enter to check the Inbox to get Nessus Activation code.
+   
+### Updates
+If you want new features, create an issue report and label it as enhancement Or start a pull request on our repositories.
 
-you will see the message mail was sucessfully created and then wait for a moment before pressing enter go to other terminal where you run NessusReg.py script and enter ur mail id and press enter.
 
-Move to TempMailServer.py terminal now press enter to recieve your aactivation code.
+### Credits:
+* FOS Team : [Fools of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
 
-you can use this script for many times to create  temporary mail id to get nessus activation code after the IP limit exceeds in Nessus Vulnerability Scanner in Home version.
-
-Next  my  Python script is to  get activation code for Nessus Professional Version..
-
-Thank You......
+### Support !
+ Email address: pingus@foolsofsecurity.com for more details. <br>
+ Youtube: [Fool of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ) <br>
+ Official Website: [Fools of security](http://foolsofsecurity.com/) <br>
+ Blog: [Fools of security](https://fosecurity.blogspot.com) 
 
 
 
