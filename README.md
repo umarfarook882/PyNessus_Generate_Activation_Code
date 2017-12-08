@@ -1,4 +1,4 @@
-## Nessus Activation Code:
+## PyNessus Generate Activation Code:
  Generate Multiple Nessus Activation Code for Home Version using Temp Mail Service.
 
 ### Dependencies:
