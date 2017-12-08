@@ -14,7 +14,7 @@
 
 3. It will create a new Temp Email and Prompt you to enter First name and Last name for Nessus Registeration Form.
 
-4. Everything is done, Press Enter to check the Inbox to get Nessus Activation code.
+4. Once everything is done, Press Enter to check the Inbox to get Nessus Activation code.
    
 ### Updates
 If you want new features, create an issue report and label it as enhancement Or start a pull request on our repositories.
